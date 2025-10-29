@@ -1,0 +1,31 @@
+PS D:\Notes\TY 5th sem\Design and Analysis of algorithm\DAA_Lab_Assignments> cd "d:\Notes\TY 5th sem\Design and Analysis of algorithm\DAA_Lab_Assignments\" ; if ($?) { javac knapsackbydp.java } ; if ($?) { java knapsackbydp }
+Enter number of items: 4
+
+Enter details for item 1:
+Name: Laptop
+Weight: 3
+Utility Value: 25
+
+Enter details for item 2:
+Name: Camera
+Weight: 2
+Utility Value: 20
+
+Enter details for item 3:
+Name: Headphones
+Weight: 1
+Utility Value: 15
+
+Enter details for item 4:
+Name: Charger
+Weight: 1
+Utility Value: 7
+
+Enter truck capacity (W in kg): 5
+
+Items selected:
+ - Charger (Weight: 1, Value: 7)
+ - Headphones (Weight: 1, Value: 15)
+ - Laptop (Weight: 3, Value: 25)
+
+Maximum Utility Value: 47
