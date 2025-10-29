@@ -1,0 +1,52 @@
+PS D:\Notes\TY 5th sem\Design and Analysis of algorithm\DAA_Lab_Assignments> cd "d:\Notes\TY 5th sem\Design and Analysis of algorithm\DAA_Lab_Assignments\" ; if ($?) { javac ReliefSystem.java } ; if ($?) { java ReliefSystem }
+Total Items : 6
+
+--- Item 1 ---
+Name: Rice
+Weight (kg): 50
+Utility (importance): 200
+Divisible? (y/n or 1/0): y
+
+--- Item 2 ---
+Name: Water
+Weight (kg): 30
+Utility (importance): 150
+Divisible? (y/n or 1/0): y
+
+--- Item 3 ---
+Name: MedicinePack
+Weight (kg): 5
+Utility (importance): 180
+Divisible? (y/n or 1/0): n
+
+--- Item 4 ---
+Name: Blankets
+Weight (kg): 10
+Utility (importance): 40
+Divisible? (y/n or 1/0): n
+
+--- Item 5 ---
+Name: CannedFood
+Weight (kg): 20
+Utility (importance): 90
+Divisible? (y/n or 1/0): y
+
+--- Item 6 ---
+Name: Generator
+Weight (kg): 25
+Utility (importance): 300
+Divisible? (y/n or 1/0): n
+
+Boat capacity (kg): 60
+
+Output:
+ - Generator: skipped (too heavy to fit as whole)
+ - MedicinePack: took whole item (5.0 kg, utility +180.0)
+ - Rice: took 50.0 kg (utility +200.0)
+ - Water: skipped (too heavy to fit as whole)
+ - CannedFood: skipped (too heavy to fit as whole)
+ - Blankets: skipped (too heavy to fit as whole)
+
+Total weight loaded: 55.0 / 60.0 kg
+Total utility on board: 380.0
+Free space left: 5.0 kg
