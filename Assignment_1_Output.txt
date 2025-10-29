@@ -1,0 +1,15 @@
+PS D:\Notes\TY 5th sem\Design and Analysis of algorithm\DAA_Lab_Assignments> cd "d:\Notes\TY 5th sem\Design and Analysis of algorithm\DAA_Lab_Assignments\" ; if ($?) { javac OrderSorter.java } ; if ($?) { java OrderSorter }
+
+Sorting Complete in 0.953 sec
+
+First few sorted orders:
+Order: ORD186891 | Time: 2025-06-24 12:00:00
+Order: ORD364609 | Time: 2025-06-24 12:00:00
+Order: ORD415679 | Time: 2025-06-24 12:00:00
+Order: ORD463975 | Time: 2025-06-24 12:00:00
+Order: ORD538644 | Time: 2025-06-24 12:00:00
+Order: ORD592344 | Time: 2025-06-24 12:00:00
+Order: ORD658902 | Time: 2025-06-24 12:00:00
+Order: ORD680509 | Time: 2025-06-24 12:00:00
+Order: ORD755590 | Time: 2025-06-24 12:00:00
+Order: ORD863197 | Time: 2025-06-24 12:00:00
