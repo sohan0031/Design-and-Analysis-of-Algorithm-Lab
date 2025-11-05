@@ -1,4 +1,4 @@
-// Scenario: University Timetable Scheduling 
+// Scenario: University Timetable Scheduling
 // A university is facing challenges in scheduling exam timetables due to overlapping student 
 // enrollments in multiple courses. To prevent clashes, the university needs to assign exam 
 // slots efficiently, ensuring that no two exams taken by the same student are scheduled at the 
